@@ -1,0 +1,26 @@
+body{
+    background: lightslategray;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header{
+    background: red;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+h5{
+    height: 30px;
+    width: 100%; 
+    text-align: center;
+
+}
+
+ol{
+    background: black;
+    height: 30px;
+    width: 100%;   
+    color: white; 
+    line-height: 30px;
+}
